@@ -71,8 +71,7 @@
 
 - 📧 Email: [dancanlumumba8@gmail.com](mailto:dancanlumumba8@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/dancan-ngare-60b658122](https://www.linkedin.com/in/dancan-ngare-60b658122/)  
-- 🌍 Portfolio (coming soon): [your-portfolio-site.com](https://your-portfolio-site.com)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle) *(optional)*
+- 🌍 Portfolio (coming soon):
 
 ---
 
